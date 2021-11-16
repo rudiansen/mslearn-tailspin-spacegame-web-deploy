@@ -1,4 +1,4 @@
-## Contributing
+## Tailspin Space Game
 
 [![Build Status](https://dev.azure.com/rugun-lab/Tailspin%20Toys/_apis/build/status/rudiansen.mslearn-tailspin-spacegame-web-deploy?branchName=main)](https://dev.azure.com/rugun-lab/Tailspin%20Toys/_build/latest?definitionId=7&branchName=main)
 
